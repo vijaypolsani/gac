@@ -1,0 +1,24 @@
+{
+    "requester": {
+        "firstName": "live",
+        "lastName": "test",
+        "email": "live.test@autodesk.com"
+    },
+    "serialNumber": "561-10000000",
+    "authEmail": "hiro@test.com",
+    "requestCode": "XDTK ERCP 9J4Q 32CG F6JA J7Z4 R2AH 55PZ",
+    "productKey": "001I1",
+    "case": {
+        "lName": "Jones",
+        "fName": "Steve",
+        "subject": "Service_Request_Ava",
+        "subOrigin": "AVA Transaction",
+        "origin": "AKN",
+        "topic": "Request Activation Code",
+        "description": " CHAT VARIABLES \\n Requestor First Name: Ram Requestor Last Name: Mummidi Requestor Email: | request_id: 262097de-1a3b-46d9-8b52-6b84ac6993a1\\n-------------------------\\nDo not edit content above\\n",
+        "followUpReq": "false",
+        "type": "Installation, Activation & Registration",
+        "email": "hero.test@autodesk.com"
+    },
+    "overactivationReason": "Just neeed new!"
+}
